@@ -1,2 +1,2 @@
-class Board < ApplicationRecord
+class Board < SubBase
 end
